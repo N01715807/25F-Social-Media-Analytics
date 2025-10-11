@@ -4,7 +4,7 @@
 This project performs exploratory data analysis and sentiment analysis on Rotten Tomatoes critic reviews using Python.
 
 ## Dataset Source
-Kaggle URL: [https://www.kaggle.com/datasets/.../rotten-tomatoes-movies-and-critic-reviews]
+Kaggle URL: [https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset]
 (Ensure this matches your dataset page)
 
 ## Folder Structure
