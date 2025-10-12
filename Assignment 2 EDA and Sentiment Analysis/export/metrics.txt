@@ -1,0 +1,20 @@
+=== Sentiment Analysis (TextBlob + NLTK) ===
+Total rows: 951637
+Evaluated rows: 450785
+
+Accuracy: 0.738
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    Negative      0.605     0.448     0.515    140116
+    Positive      0.777     0.868     0.820    310669
+
+    accuracy                          0.738    450785
+   macro avg      0.691     0.658     0.667    450785
+weighted avg      0.724     0.738     0.725    450785
+
+
+Confusion Matrix [Positive, Negative]:
+[[269700  40969]
+ [ 77339  62777]]

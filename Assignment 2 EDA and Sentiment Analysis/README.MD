@@ -15,7 +15,3 @@ Kaggle URL: [https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-mov
 - `report/` – Word/PDF report and screenshots
 - `video/` – Presentation video
 
-## How to Run
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
