@@ -13,5 +13,4 @@ Kaggle URL: [https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-mov
 - `export/` – Generated results (CSV, metrics)
 - `figures/` – Plots for report
 - `report/` – Word/PDF report and screenshots
-- `video/` – Presentation video
-
+- `video/` – Presentation video link: https://www.loom.com/share/62e99eea6976483fb8668ddae7730fa2?sid=19ba6b5a-c848-4809-a96c-9abda9610f97
